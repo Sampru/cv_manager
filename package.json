@@ -1,0 +1,30 @@
+{
+  "name": "cv_manager",
+  "version": "1.0.0",
+  "description": "NodeJS webapp for CV management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sampru/cv_manager.git"
+  },
+  "keywords": [
+    "CV",
+    "manager",
+    "webapp"
+  ],
+  "author": "Asier Sampietro",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/Sampru/cv_manager/issues"
+  },
+  "homepage": "https://github.com/Sampru/cv_manager#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
