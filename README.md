@@ -1,2 +1,2 @@
-# cv_manager
+# CV manager
 NodeJS webapp for CV management
